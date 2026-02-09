@@ -5,7 +5,7 @@ This repository contains the implementation of a local-first, multi-agent system
 
 The core objective is to mitigate hallucination in automated analytics by implementing a **Self-Reflection** loop, where the agent critiques its own intermediate outputs and iteratively refines its queries before presenting a final answer.
 
-**Current Status:** `v0.1.0-alpha` (Active Development)
+**Current Status:** `v0.1.0`
 
 ## Technical Architecture
 
